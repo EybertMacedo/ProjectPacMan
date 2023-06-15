@@ -1,5 +1,6 @@
 #include <iostream>
 #include <string>
+using namespace std;
 class item
 {   
     private:
@@ -7,7 +8,7 @@ class item
         string tipo;
         bool estado;
     public:
-        virtual item();
+        item();
         virtual ~item();
         virtual int getPosicion() = 0;
         virtual void setPosicion(int) = 0;
@@ -15,4 +16,5 @@ class item
         virtual void setTipo(string) = 0;
         virtual bool getEstado() = 0;
         virtual void setEstado(bool) = 0;
+        virtual void comer(string);
 };
