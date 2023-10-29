@@ -2,10 +2,6 @@
 
 ![Pac-Man Screenshot](https://github.com/EybertMacedo/ProjectPacMan/assets/83891586/08ebd5d4-cd1c-4db3-97e4-15179cf226d8)
 
-Logo
-![Logo](https://github.com/EybertMacedo/ProjectPacMan/assets/83891586/050745bf-0e1f-415b-b992-2f6724dfc626)
-
-
 This C++ project reimagines the classic Pac-Man game to emphasize addiction prevention. Instead of ghosts as obstacles, this version features addictions as antagonists that the player character, Pac-Man, must avoid.
 
 ## Introduction
